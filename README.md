@@ -7,7 +7,7 @@
 # Mon Objectif
 ---------------
 
--Mon objectif après BiCode est d'approfondir  mes connaissances en faisant des stages.
+-Mon objectif après BeCode est d'approfondir  mes connaissances en faisant des stages.
 
 # Citation
 -----------
