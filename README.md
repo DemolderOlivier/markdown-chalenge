@@ -4,13 +4,11 @@
 
 [Mon profil GitHub](https://github.com/DemolderOlivier)
 
-# Mon Objectif
----------------
+## Mon Objectif
 
 -Mon objectif après BeCode est d'approfondir  mes connaissances en faisant des stages.
 
-# Citation
------------
+## Citation
 
 -Perséverer et Évoluer.
 
